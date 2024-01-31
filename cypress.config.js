@@ -16,9 +16,4 @@ module.exports = defineConfig({
   },
 })
 
-// module.exports = defineConfig({
-//   env: {
-//     MAILOSAUR_API_KEY: '767vyLNnWX583PMKHiH3NwAehxdGUkEc',
-//   },
-//   // ...
-// })
+
