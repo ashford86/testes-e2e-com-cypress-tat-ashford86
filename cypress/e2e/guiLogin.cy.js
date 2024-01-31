@@ -27,6 +27,7 @@
 //     cy.contains('a', 'Create a new note').should('be.visible')
 //   })
 // })
+/// <reference path="../support/commands.d.ts" />
 
 describe('guiLogin', () => {
 
